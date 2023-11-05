@@ -1,0 +1,36 @@
+/* Your styles here */
+a{color: blue;}
+
+header section{background-color: black;}
+header img{width: 10%; padding: 0px 0px 15px 35px;}
+header p{background-color: lightslategray; padding: 15px;}
+header a{color: white; margin: 15px;}
+
+main{margin: 2%; font-family: Arial, Helvetica, sans-serif;}
+main h5{background-color: orange; text-align: center; padding: 5px; margin-bottom: 25px;}
+
+aside{
+    background-image: url(bg-image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 2% 1% 2% 1%;
+    text-align: center;
+    color: white;
+    margin-bottom: 25px;
+}
+
+article p{margin: 1%;}
+article {margin: 1% 0% 1% 0%; border:1px ridge #dee1e3; padding: 1% 0% 1% 0%; text-align: left;}
+article img{width: 23%; border-radius: 5%; margin: 10px; height: 100%;}
+
+
+
+div figure{margin-bottom: 2%;}
+div figcaption{text-align: center; font-weight: bold;}
+div img{width: 100%;}
+
+footer{text-align: center; background-color: black;}
+footer p{background-color:lightslategray; padding: 15px; }
+footer img{padding: 35px; width: 10%;}
+footer a{color: white;}
